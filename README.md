@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning deep learning/C++.
+### 🌱 I’m currently learning deep learning and C++.
 
 <!--
 **Eren-Corn0712/Eren-Corn0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
